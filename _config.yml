@@ -23,12 +23,12 @@ repository               : "dreamyingy/dreamyingy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img.jpg"
   name             : "Yuzhe Zhuang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate in AI Thrust at The Hong Kong University of Science and Technology (Guangzhou)"
-  location         : "China"
-  employer         : "HKUST (GZ)"
+  bio              : "Junior Undergraduate in AI Thrust at HKUST(GZ)"
+  location         : "Guangzhou, China"
+  employer         : "The Hong Kong University of Science and Technology (Guangzhou)"
   uri              : "https://dreamyingy.github.io"# URL
   email            : "yzhuang671@connect.hkust-gz.edu.cn" 
 
