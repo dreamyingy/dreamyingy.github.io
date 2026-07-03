@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuzhe Zhuang"
+title: "Welcome to My Homepage ✨"
 author_profile: true
 redirect_from:
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 
 ## About Me
 
-Hi! My name is Yuzhe Zhuang（庄宇哲）. I am an undergraduate student in the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou). My research interests include AI agents, large language models and Joint Embedding Predictive Architecture (JEPA).
+Hi! My name is Yuzhe Zhuang（庄宇哲）. 👋 I am an undergraduate student in the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou). My research interests include AI agents, large language models and Joint Embedding Predictive Architecture (JEPA).
 
 Over the past few years, I have developed a solid foundation in machine learning, deep learning, natural language processing, computer vision, data mining, and social network analysis through coursework and project experience. From June to August 2025, I also completed a two-month summer exchange at The Hong Kong University of Science and Technology, which further broadened my academic perspective and strengthened my motivation to explore research-oriented AI topics.
 
@@ -33,23 +33,15 @@ I enjoy turning open-ended ideas into structured experiments and practical proto
 
 *Summer 2024 - UGRP Best Poster Design Award*
 
-- Simulated HEMT Id-Vg transfer curves with MLP, RNN, and ResNet models.
-- Explored neural networks as faster alternatives to traditional semiconductor device modeling.
-- Practiced experiment design, model comparison, and technical presentation for device-modeling research.
-
 ### Safety Monitoring System for Smart Grid
 
 *2024 - Provincial Second Prize, The Third College Electrical and Electronic Engineering Innovation Competition*
-
-- Contributed to an edge-AI safety monitoring system for smart-grid work scenarios.
-- Worked with Raspberry Pi and PYNQ-Z2 deployment settings.
-- Focused on pose-estimation model design and training for fall or abnormal-posture detection.
 
 
 ## Education
 
 - **2023-2027 (Expected)**: BSc student, AI Thrust, The Hong Kong University of Science and Technology (Guangzhou).
-- **June-August 2025**: Two-month summer exchange, The Hong Kong University of Science and Technology.
+- **2025.06-2025.08**: Two-month summer exchange, The Hong Kong University of Science and Technology.
 
 ## Skills
 
